@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ### Github statistics
-<p align="left"> <img width="30%" alt="Top Languages" src="https://github-readme-stats-nqktlmpsi-afulle12s-projects.vercel.app/api/top-langs/?username=afulle12&layout=pie&hide=html,makefile" /> </p>
+<img
+  width="30%"
+  alt="Top Languages"
+  src="https://github-readme-stats-nqktlmpsi-afulle12s-projects.vercel.app/api/top-langs?username=afulle12&layout=pie&hide=html,makefile"
+/>
