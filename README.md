@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ### Github statistics
-<img
+[<img
   width="30%"
   alt="Top Languages"
   src="https://github-readme-stats-nqktlmpsi-afulle12s-projects.vercel.app/api/top-langs?username=afulle12&layout=pie&hide=html,makefile&cache_seconds=1800&v=3"
-/>
+/>](https://github-readme-stats-nqktlmpsi-afulle12s-projects.vercel.app/api/top-langs?username=afulle12&layout=pie&hide=html,makefile&v=pat-fix-1)
